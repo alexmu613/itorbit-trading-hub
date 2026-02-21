@@ -1,7 +1,5 @@
-Flask==3.0.0
-Flask-CORS==4.0.0
-python-dotenv==1.0.0
-requests==2.31.0
-MetaTrader5==5.0.45
-cryptography==41.0.0
-Werkzeug==3.0.0
+Flask
+requests
+python-dotenv
+python-mt5
+Flask-CORS
